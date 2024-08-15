@@ -1,0 +1,9 @@
+
+
+# MONGODB=mongodb://localhost:27017/nest-pokemon
+MONGODB=mongodb://mongo:eTlvGbbpMvDjDiKIyIvBrOzojXSenbnJ@roundhouse.proxy.rlwy.net:32053
+PORT=3000
+DEFAULT_LIMIT=2
+
+SECRET_KEY=
+JWT_SEED=
